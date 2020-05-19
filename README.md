@@ -42,7 +42,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 ## Repository management tools
 
-* [oao](https://github.com/guigrpa/oao)
+* [oao](https://github.com/guigrpa/oao) - ToDo: Review it
 * [FBShipIt](https://github.com/facebook/fbshipit)
 * [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
