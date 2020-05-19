@@ -1,7 +1,7 @@
 # Monorepo-Notes
 
-A curated list of awesome Monorepo tools, software and
-architectures. Monorepos, short for mono-repositories, are
+List of Monorepo tools, software and
+architectures. Mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
